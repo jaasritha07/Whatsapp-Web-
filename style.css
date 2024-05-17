@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+.space{
+    background-color: #eeefee;
+    padding-bottom:50vh;
+}
+
+.container{
+    box-sizing: border-box;
+    width:100%;
+    height:300px;
+    background-color:	#449257;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.fa-whatsapp{
+    padding-left: 200px;
+    padding-top:25px;
+}
+.web{
+    padding-left:20px;
+    padding-top:35px;
+    font-size:15px;
+    color:white;
+    font-family:Helvetica;
+}
+.middle{
+    border: solid whitesmoke;
+    height:980px;
+    width:1100px;
+    background-color: white;
+    padding-bottom:50px;
+    box-shadow: 6px 6px 6px 6px #888888;
+    margin-bottom: 200px;
+    
+
+    position:absolute;
+    top:100px;
+    left:150px;
+    right:90px;
+
+
+}
+.download{
+    border:1px solid rgb(191, 187, 187);
+    margin-top:30px;
+    margin-left: 20px;
+    display:flex;
+    flex-direction: row;
+    margin-right: 20px;
+}
+.wa-desktop{
+    padding-top:20px;
+    padding-left:30px;
+    height:90px;
+}
+.download2{
+    padding-top:5px;
+    padding-left:20px;
+    font-size:20px;
+    color:rgb(134, 129, 129) ;
+    font-family: Helvetica;
+    font-size: 20px;
+
+}
+.Button{
+    margin-top:30px;
+    margin-left:10px;
+    margin-right:10px;
+    padding-top:15px;
+    padding-bottom: 15px;
+    height:fit-content;
+    width: fit-content;
+    border-radius:100px 100px;
+    border:1px solid;
+    background-color:#075E54;
+    color:rgb(255, 255, 255);
+    font-size:18px;
+    
+}
+.Button:link{
+text-align: center;
+}
+.page-lander{
+    display: flex;
+    flex-direction:row;
+}
+.page-header{
+    margin-top:40px;
+    margin-left:60px;
+    font-size: 30px;
+    font-family: Helvetica;
+    color:#858783;
+
+
+}
+.instructions{
+    margin-top:50px;
+    margin-left:50px;
+    color:#5c5e5a;
+    font-size:20px;
+    font-family:Helvetica ;
+
+}
+.fa-solid{
+    border:1px;
+    background-color:#b8bbb5;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.wheel{
+    margin-left:5px;
+
+}
+.QR-code{
+    height:264px;
+    width:264px;
+    margin-left:150px;
+    margin-right:40px;
+}
+.line{
+    color:#c6c8c4;
+    margin-top:30px;
+    margin-left:65px;
+    margin-right:120px;
+    
+}
+a.my-anchor-class {
+    margin-top: 60px;
+    margin-left:60px;
+    color: #075E54;
+    display: block;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+a.my-anchor-class:link {
+    text-decoration: none;
+}
+.tutorial{
+    margin-top:100px;
+    background-color: #e7ebe4;
+}
+.tutorial-h1{
+    padding-top:10px;
+    color:#5f605d;
+    text-align: center;
+    font-size:30px;
+    font-family:sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+
+}
+.tutorial-h2{
+    color:#2b5f4b;
+    text-align: center;
+    font-size:16px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+}
+.video-tutorial{
+    padding-top: 40px;
+    padding-left:250px;
+    padding-right:250px;
+
+}
+._ak5i{
+    height:300px;
+    width:850px;
+    padding-left:300px;
+    padding-bottom:90px;
+}
