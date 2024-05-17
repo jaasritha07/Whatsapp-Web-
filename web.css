@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+.space{
+    background-color: #eeefee;
+    padding-bottom:990px;
+}
+
+.container{
+    border:2px;
+    width: calc(100% - 0px);
+    height:300px;
+    background-color:	#449257;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.fa-whatsapp{
+    padding-left: 200px;
+    padding-top:25px;
+}
+.web{
+    padding-left:20px;
+    padding-top:35px;
+    font-size:15px;
+    color:white;
+    font-family:Helvetica;
+}
+.middle{
+    border: solid whitesmoke;
+    height:980px;
+    width:1100px;
+    background-color: white;
+    padding-bottom:50px;
+    box-shadow: 6px 6px 6px 6px #888888;
+    margin-bottom: 200px;
+    
+
+    position:absolute;
+    top:100px;
+    left:150px;
+    right:90px;
+
+}
+.phone{
+    font-size: 28px;
+    font-weight: 300;
+    line-height: normal;
+    color: #41525d;
+    padding-left:450px;
+    padding-top:50px;
+}
+
+.select{
+    padding-top: 0%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    padding-left:290px;
+    color:#919193;
+}
+.dropdown{
+    border-color: #dad9d9;
+    border-radius:100px 100px;
+    font-size:17px;
+    width:240px;
+    height:40px;
+    margin-left:400px;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+.dropdown:hover{
+    color: #888888;
+    box-shadow: #595757;
+}
+a{
+    background-color: #234a2d;
+    font-size:24px;
+    border: solid;
+    border-radius: 100px 100px;
+    height:400px;
+    width:600px;
+    margin-left:470px;
+    padding:10px 25px 10px 25px;
+    text-decoration: none;
+}
+a{
+    color:white;
+    
+}
+#QR-code{
+    color:#234a2d;
+    font-size:22px;
+   text-align: center;
+    font-family:  Helvetica, sans-serif;
+    font-style: normal;
+    font-weight:250px;
+    margin-top:35px;
+}
+.tutorial{
+    margin-top:100px;
+    background-color: #e7ebe4;
+}
+.tutorial-h1{
+    padding-top:10px;
+    color:#5f605d;
+    text-align: center;
+    font-size:30px;
+    font-family:sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+
+}
+.tutorial-h2{
+    color:#2b5f4b;
+    text-align: center;
+    font-size:16px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+}
+.video-tutorial{
+    padding-top: 40px;
+    padding-left:250px;
+    padding-right:250px;
+
+}
+._ak5i{
+    height:400px;
+    width:850px;
+    padding-left:300px;
+    padding-bottom: 40px;
+}
